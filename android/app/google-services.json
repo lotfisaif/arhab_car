@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504106767324",
+    "firebase_url": "https://arhab-rentalcar-191ea.firebaseio.com",
+    "project_id": "arhab-rentalcar-191ea",
+    "storage_bucket": "arhab-rentalcar-191ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504106767324:android:46e9fa87f9969ee3bc3519",
+        "android_client_info": {
+          "package_name": "com.example.arhab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504106767324-hcfqu65phdmi0du83j5m9kc0ttjj3mu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3SwoFdtEwEc8nYEDTf57YwJ4o8TSeRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504106767324-hcfqu65phdmi0du83j5m9kc0ttjj3mu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
